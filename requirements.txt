@@ -1,0 +1,4 @@
+zmq
+pandas
+matplotlib
+tornado
